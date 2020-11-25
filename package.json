@@ -12,8 +12,7 @@
   ],
   "dependencies": {
     "@terraformer/arcgis": "^2.0.7",
-    "tiny-binary-search": "^1.0.3",
-    "lodash": "4.17.15"
+    "tiny-binary-search": "^1.0.3"
   },
   "devDependencies": {
     "@rollup/plugin-json": "^4.0.3",
